@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaswanth L</h1>
 <br />
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Fullstack+Web+Developer;I'm+a+Student+Placement+Coordinator;I'm+a+Design+Thinker;I+create+outstanding+presentations;I'm+interested+to+develop+new+things)
-<br/>
-![](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&color=A62A96&lines=A+passionate+Programmer+and+Developer+from+India;Currently+pursuing+bachelor's+degree;Interested+in+Full+Stack+Development)
+
+< img src="https://readme-typing-svg.herokuapp.com?font=Times+new+roman&color=A62A96&lines=A+passionate+Programmer+and+Developer+from+India;Currently+pursuing+bachelor's+degree;Interested+in+Full+Stack+Development" /)
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlyaswanth&label=Profile%20views&color=0e75b6&style=flat" alt="dlyaswanth" /> </p>
 
