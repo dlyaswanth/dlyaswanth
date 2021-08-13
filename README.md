@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yaswanth L</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&color=A62A96&lines=A+passionate+Programmer+and+Developer+from+India;Currently+pursuing+bachelor's+degree;Interested+in+Full+Stack+Development)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlyaswanth&label=Profile%20views&color=0e75b6&style=flat" alt="dlyaswanth" /> </p>
 
