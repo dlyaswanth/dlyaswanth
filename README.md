@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/dlyaswanth" target="blank"><img src="https://img.shields.io/twitter/follow/dlyaswanth?logo=twitter&style=for-the-badge" alt="dlyaswanth" /></a> </p>
 <h3>About Me</h3>
 <P>I am currently pursuing my Bachler's in Sri Eshwar College of Engineering. I enjoy learning new Technologies</p>
-<p>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website:&nbsp;<a href="https://dlyaswanth.github.io/">dlyaswanth.github.io</a></p>
+<p>🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website:&nbsp;<a href="https://dlyaswanth.vercel.app/">Visit Link</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dlyaswanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dlyaswanth" height="30" width="40" /></a>
